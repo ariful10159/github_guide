@@ -1,4 +1,4 @@
-# 🚀 Flutter Project GitHub Push Notes
+# 🚀  GitHub Push Notes
 
 ## 🔹 প্রথমবার কোড GitHub-এ আপলোড করার ধাপ
 
